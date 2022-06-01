@@ -1,0 +1,15 @@
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka11.objektu-nuskaitymas-is-failo\FailuNuskaitymas\ObjektoNuskaitymasIsFailo\bin\Debug\net6.0\ObjektoNuskaitymasIsFailo.exe
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka11.objektu-nuskaitymas-is-failo\FailuNuskaitymas\ObjektoNuskaitymasIsFailo\bin\Debug\net6.0\ObjektoNuskaitymasIsFailo.deps.json
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka11.objektu-nuskaitymas-is-failo\FailuNuskaitymas\ObjektoNuskaitymasIsFailo\bin\Debug\net6.0\ObjektoNuskaitymasIsFailo.runtimeconfig.json
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka11.objektu-nuskaitymas-is-failo\FailuNuskaitymas\ObjektoNuskaitymasIsFailo\bin\Debug\net6.0\ObjektoNuskaitymasIsFailo.dll
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka11.objektu-nuskaitymas-is-failo\FailuNuskaitymas\ObjektoNuskaitymasIsFailo\bin\Debug\net6.0\ObjektoNuskaitymasIsFailo.pdb
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka11.objektu-nuskaitymas-is-failo\FailuNuskaitymas\ObjektoNuskaitymasIsFailo\obj\Debug\net6.0\ObjektoNuskaitymasIsFailo.csproj.AssemblyReference.cache
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka11.objektu-nuskaitymas-is-failo\FailuNuskaitymas\ObjektoNuskaitymasIsFailo\obj\Debug\net6.0\ObjektoNuskaitymasIsFailo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka11.objektu-nuskaitymas-is-failo\FailuNuskaitymas\ObjektoNuskaitymasIsFailo\obj\Debug\net6.0\ObjektoNuskaitymasIsFailo.AssemblyInfoInputs.cache
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka11.objektu-nuskaitymas-is-failo\FailuNuskaitymas\ObjektoNuskaitymasIsFailo\obj\Debug\net6.0\ObjektoNuskaitymasIsFailo.AssemblyInfo.cs
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka11.objektu-nuskaitymas-is-failo\FailuNuskaitymas\ObjektoNuskaitymasIsFailo\obj\Debug\net6.0\ObjektoNuskaitymasIsFailo.csproj.CoreCompileInputs.cache
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka11.objektu-nuskaitymas-is-failo\FailuNuskaitymas\ObjektoNuskaitymasIsFailo\obj\Debug\net6.0\ObjektoNuskaitymasIsFailo.dll
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka11.objektu-nuskaitymas-is-failo\FailuNuskaitymas\ObjektoNuskaitymasIsFailo\obj\Debug\net6.0\refint\ObjektoNuskaitymasIsFailo.dll
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka11.objektu-nuskaitymas-is-failo\FailuNuskaitymas\ObjektoNuskaitymasIsFailo\obj\Debug\net6.0\ObjektoNuskaitymasIsFailo.pdb
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka11.objektu-nuskaitymas-is-failo\FailuNuskaitymas\ObjektoNuskaitymasIsFailo\obj\Debug\net6.0\ObjektoNuskaitymasIsFailo.genruntimeconfig.cache
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka11.objektu-nuskaitymas-is-failo\FailuNuskaitymas\ObjektoNuskaitymasIsFailo\obj\Debug\net6.0\ref\ObjektoNuskaitymasIsFailo.dll
